@@ -9,7 +9,7 @@ A MAKEFILE is included in order to setup the project.
 Usage
 =========
 
-Make sure you have JDK and JRE properly set up on your machine and use make all or make compile to compile the source code.
+Make sure you have JDK and JRE properly set up on your machine and run make all or make compile to compile the source code.
                                                                        --------    ------------
 
 If the project is successfully compiled, you can use make run to test the game using the appletviewer application. In alternative, 
